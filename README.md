@@ -6,7 +6,7 @@
 
 :house_with_garden: I’m from Brazil.
 
-💻 I'm currently work on T2M as a Software Developer
+👨‍💼 I'm currently work on T2M as a Software Developer
 
 :books: I’m currently in love with Angular❤️ and vuejs💚.
 
