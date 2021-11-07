@@ -1,6 +1,6 @@
 # < Hello wolrd />
 ## Hello, I'm Alan ✋
-
+<a href="https://app.daily.dev/Y0SHYY"><img src="https://api.daily.dev/devcards/8bd16f1b92594777aa473608a17c4415.png?r=pt9" width="400" alt="Alan Oliveira's Dev Card"/></a>
 
 :computer: I'm Front-End Developer!
 
